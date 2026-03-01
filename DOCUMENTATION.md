@@ -497,7 +497,7 @@ If you want to dive deeper into configuration options, check these sections:
 ShowBox usually requires a proxy to work properly in most regions:
 
 ```env
-# Set up a proxy for ShowBox (recommended)
+# Set up a proxy for ShowBox (*recommended*)
 SHOWBOX_PROXY_URL_VALUE=https://your-proxy-url.netlify.app/?destination=
 ```
 
